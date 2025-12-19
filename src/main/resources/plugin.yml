@@ -1,0 +1,9 @@
+name: cmd_Reader
+version: 1.0-SNAPSHOT
+main: azinomotosanda.cmd_Reader.cmd_Reader
+api-version: 1.21
+
+commands:
+  cmd:
+    description: 指定したアイテムのCustomModelData一覧を表示します
+    usage: /cmd <アイテム名>
